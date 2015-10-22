@@ -1,6 +1,8 @@
 # CodeBook for Getting and Cleaning Data Course Project
-22 Oct 2015
 ==================================
+22 Oct 2015
+
+
 
 ### Information about the dataset from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 ----------------------------------

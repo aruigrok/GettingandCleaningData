@@ -1,6 +1,6 @@
 # GettingandCleaningData
 Repository for Getting and Data Cleaning Course Project 
-aruigrok
+
 22 Oct 2015
 
 ## Assignment 
@@ -22,4 +22,5 @@ Create one R script called run_analysis.R that does the following.
 
 ## Files in Repository
 The file run_analysis.R is the script created for the assignment. 
+
 The file CodeBook.md is the code book for the dataset used.

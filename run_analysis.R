@@ -67,7 +67,7 @@ if(dir.exists("./UCI HAR Dataset/")){
         unzip("GCD_Project_Dataset.zip", exdir="./")
         }
 
-### Set wd to UCI HAR Dataset/ and get a list of all the files in the folder
+### Set working directory to UCI HAR Dataset/ and get a list of all the files in the folder
 setwd("~/Getting and Cleaning Data/Project Assignment/UCI HAR Dataset/")
 file_list <- list.files(recursive=TRUE)
 file_list

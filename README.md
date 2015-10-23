@@ -1,7 +1,7 @@
 # GettingandCleaningData
 Repository for Getting and Data Cleaning Course Project 
 
-22 Oct 2015
+23 Oct 2015
 
 ## Assignment 
 #### As outlined on the course website
@@ -13,12 +13,14 @@ One of the most exciting areas in all of data science right now is wearable comp
 #### Assignment
 Create one R script called run_analysis.R that does the following. 
 
-1. Merges the training and the test sets to create one data set.
+1. It downloads the dataset.
+2. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-3. Uses descriptive activity names to name the activities in the data set
+3. Uses descriptive activity names to name the activities in the data set.
 4. Appropriately labels the data set with descriptive variable names. 
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject that is called UCIHAR_tidy.txt.
 
+*Note*: Please change your working directory as appropriate in lines 52 and 71 of run_analysis.R.
 
 ## Files in Repository
 The file run_analysis.R is the script created for the assignment. 
